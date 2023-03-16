@@ -1,0 +1,10 @@
+[
+  {
+    "package": "APCI",
+    "oncran": true
+  },
+  {
+    "package": "MCM",
+    "oncran": true
+  }
+]

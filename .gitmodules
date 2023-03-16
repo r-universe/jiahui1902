@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "APCI"]
+	path = APCI
+	url = https://github.com/jiahui1902/apci
+	shallow = true
+	registered = true
+[submodule "MCM"]
+	path = MCM
+	url = https://github.com/jiahui1902/mcm
+	shallow = true
+	registered = true
